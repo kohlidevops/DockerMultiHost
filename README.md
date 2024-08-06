@@ -1,4 +1,4 @@
-# How to manage multiple Docker Host from Docker Client
+# How to manage Multiple Docker Daemon Host from Docker Client
 
 I have launched 3 EC2 servers called DockerHost-1, DockerHost-2 and DockerClient in AWS Console and I assuming DockerClient as my local system to connect the multiple DockerHosts.
 
