@@ -76,5 +76,14 @@ docker --context remote1 images
 docker --context remote1 ps
 ```
 
+### To create a container on Docker Host from Docker Client
+
+#### SSH to Docker Client
+
+```
+docker --context remote1 run httpd
+docker --context remote1 ps
+```
+
 
 
